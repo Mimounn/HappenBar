@@ -1,0 +1,62 @@
+@font-face{
+	font-family: "Champagne & Limousines";
+	src: url("Champagne & Limousines.ttf");
+	
+}
+
+@font-face{
+	font-family: "Champagne & Limousines Bold";
+	src: url("Champagne & Limousines Bold.ttf");
+}
+
+#navbar{
+  background-color: #3d494e;
+}
+
+p
+{
+	font-family: 'Champagne & Limousines';
+	font-size: 130%;
+}
+
+h1
+{
+	font-family: 'Champagne & Limousines Bold';
+}
+
+h2
+{
+	font-family: 'Champagne & Limousines Bold';
+
+}
+
+li
+{
+	font-family: 'Champagne & Limousines';
+	font-size: 140%;
+}
+
+.container-fluid {
+    margin-top: 20px;
+}
+
+#couleur{
+	color: #fefcfc;
+}
+
+#carte {
+	margin-left: 13%;
+}
+
+.icon-arrow-up:before {
+	content: "\e1e4";
+}
+
+#mentions{
+	margin-top: 12%;
+}
+
+#couv{
+  max-width: 100%;
+  height: auto;
+}
