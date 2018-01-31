@@ -45,3 +45,8 @@ li
 #mentions{
 	margin-top: 12%;
 }
+
+#couv{
+  max-width: 100%;
+  height: auto;
+}
